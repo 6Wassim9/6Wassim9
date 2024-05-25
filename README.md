@@ -1,5 +1,7 @@
 Jeu de Labyrinthe
 
+
+
 Description:
 
 Ce projet est un jeu développé en Python à l'aide de la bibliothèque Pygame. Le jeu consiste en un labyrinthe où le joueur doit naviguer pour atteindre la sortie tout en évitant les obstacles.
